@@ -11,3 +11,7 @@
 > -   `pip install 'django-tailwind[reload]'`
 >
 > On Windows I had to use the special set up mentioned at the bottom
+
+> ### Other Mypy settings
+>
+> https://careers.wolt.com/en/blog/tech/professional-grade-mypy-configuration
